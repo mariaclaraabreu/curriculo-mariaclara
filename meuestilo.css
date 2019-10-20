@@ -1,0 +1,83 @@
+
+/* Topo (Carrossel e menu) */
+.mycarouseltopo{
+	background-color: #000000;
+}
+.imagemcarousel{
+	z-index: -99999999;
+}
+.myimgpessoa{
+	margin-top: -100px;
+	z-index: 99999999999;
+	position: relative;
+	border: 10px solid #ffffff;
+}
+.myname{
+	position: relative;
+	color:#FA5329; 
+}
+.mynav{
+	color:#ffffff;
+	position: relative;
+	margin-top: -100px;
+}
+.mynav a{
+	color:#ffffff;
+	font-size: 12px;
+}
+.mynav .nav a:hover{
+	opacity: 0.8;
+}
+.myiconnav{
+	background-color: #fff;
+}
+/* Cards */
+.mycard{
+	background-color: #f2f2f2;
+	-webkit-box-shadow: -2px 18px 23px -19px rgba(0,0,0,1);
+	-moz-box-shadow: -2px 18px 23px -19px rgba(0,0,0,1);
+	box-shadow: -2px 18px 23px -19px rgba(0,0,0,1);
+}
+.mycard:hover{
+	background-color: #fff;
+}
+.mytitlecards{
+	color: #4B4E51;
+}
+.myprogress{
+	height: 2px;
+}
+.icon-exp{
+	font-size: 10px;
+}
+.text-ativs{
+	font-size: 13px;
+}
+.mybtnativs{
+	background-color: transparent;
+	font-weight: bold;
+	border:1px solid #FA5329;
+	color:#FA5329;
+}
+.mybtnativs:hover{
+	background-color: #FA5329;
+	font-weight: bold;
+	border:1px solid #ffffff;
+	color:#ffffff;
+}
+/* Utilitários */
+.mytextura{
+	background-image: url(./imagens/textura.png);
+}
+.mybgtransp{
+	background-color: transparent;
+}
+.mylaranjaclaro{
+	background-color: rgba(250,84,42,0.1);
+}
+.mybgtransp li{
+	background-color: transparent;
+}
+.icon{
+	color:#FA5329;
+}
