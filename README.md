@@ -1,5 +1,7 @@
 # curriculo-mariaclara
 
-Frontend de um site direcionado para inserção de informações comuns de um currículo.
+Frontend de um site feito com <b>Bootstrap 4, CSS3 e HTML5</b> direcionado para inserção de informações de um currículo.
 
-Caso queira usar este template, não esqueça de colocar meus créditos no rodapé <3
+
+Caso queira usar este template, não esqueça de colocar meus créditos <3
+
